@@ -1,0 +1,10 @@
+         GRADE REPORT
+
+         NAME           AVERAGE
+
+ JOHN SMITH                73
+ LISA JONES                68
+ MIKE PETERS               85
+ SUE  JOHNSON              66
+ ALAN  THOMAS              66
+ KRISTEN SPANO             70
